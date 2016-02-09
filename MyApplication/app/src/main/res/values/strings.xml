@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bottomBtnText">Cancel</string>
+    <string name="topBtnText">Accept</string>
+    <string name="textViewString">Info</string>
+    <string name="checkBoxText">OK</string>
+</resources>
